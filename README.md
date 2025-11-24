@@ -30,6 +30,7 @@ To design and implement an Arduino-based system that detects the moisture level 
 ---
 
 ## ⚙️ Circuit Connections
+https://github.com/NikhilTuppad/DryWet-Moisture-Sensor/blob/main/docs/Screenshot%202025-11-24%20184325.png
 docs/Screenshot 2025-11-24 184325.png
 docs/Screenshot 2025-11-24 184355.png
 docs/Screenshot 2025-11-24 184418.png
