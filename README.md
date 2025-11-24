@@ -30,6 +30,14 @@ To design and implement an Arduino-based system that detects the moisture level 
 ---
 
 ## ⚙️ Circuit Connections
+docs/Screenshot 2025-11-24 184325.png
+docs/Screenshot 2025-11-24 184355.png
+docs/Screenshot 2025-11-24 184418.png
+
+
+
+
+
 
 
 
