@@ -15,7 +15,7 @@ To design and implement an Arduino-based system that detects the moisture level 
 - Moisture Sensor (Analog)  
 - LEDs:  
   - Red – Dry Waste  
-  - Yellow – Medium Moisture  
+  - Blue – Medium Moisture  
   - Green – Wet Waste  
 - Breadboard & Jumper Wires  
 - 220Ω Resistors  
